@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+cookiecutter_pypackage.egg-info/PKG-INFO
+cookiecutter_pypackage.egg-info/SOURCES.txt
+cookiecutter_pypackage.egg-info/dependency_links.txt
+cookiecutter_pypackage.egg-info/top_level.txt
+systeminfo/__init__.py
+systeminfo/main.py

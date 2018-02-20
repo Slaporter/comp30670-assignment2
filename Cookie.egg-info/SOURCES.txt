@@ -1,0 +1,8 @@
+README.rst
+setup.cfg
+Cookie.egg-info/PKG-INFO
+Cookie.egg-info/SOURCES.txt
+Cookie.egg-info/dependency_links.txt
+Cookie.egg-info/top_level.txt
+systeminfo/__init__.py
+systeminfo/main.py
